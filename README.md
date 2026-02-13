@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML
-- 📫 Gmail(hanzla089@gmail.com)
+- 📫 Gmail(hanzlaakhalid@gmail.com)
 
 <!---
 hanzlaKhalid7/hanzlaKhalid7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
