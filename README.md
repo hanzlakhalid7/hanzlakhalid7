@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanzlakhalid7
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested Full Stack Development
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on AI integration with Websites
 - 📫 Gmail(hanzlaakhalid@gmail.com)
 
 <!---
